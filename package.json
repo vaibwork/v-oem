@@ -12,7 +12,8 @@
     "react": "latest",
     "react-dom": "latest",
     "lucide-react": "latest",
-    "recharts": "latest"
+    "recharts": "latest",
+    "lucide": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
