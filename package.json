@@ -13,7 +13,7 @@
     "react-dom": "latest",
     "lucide-react": "latest",
     "recharts": "latest",
-    "lucide": "latest"
+    "@tailwindcss/postcss": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
