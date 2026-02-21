@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect, useMemo, createContext, useContext } from 'react';
 import { 
   Settings, 
